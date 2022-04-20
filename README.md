@@ -1,7 +1,8 @@
 # Atividade-s4
-##Semana 4 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)
 
 #Lógica aplicada - Estrutura de repetição, arrays, métodos e objetos.
+
+##Semana 4 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)
 
 Nesta atividade veremos como utilizar as estruturas condicionais (if, else) e as estruturas de repetição (while, for) no JavaScript.
 
